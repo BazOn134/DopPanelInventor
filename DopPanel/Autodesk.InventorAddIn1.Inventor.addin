@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 18.0-->
+  <ClassId>{b982d25d-0e76-4273-a67d-5c7f0fa60037}</ClassId>
+  <ClientId>{b982d25d-0e76-4273-a67d-5c7f0fa60037}</ClientId>
+  <DisplayName>DopPanel</DisplayName>
+  <Description>DopPanel</Description>
+  <Assembly>DopPanel.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>17..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
